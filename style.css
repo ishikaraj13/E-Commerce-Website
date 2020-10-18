@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(228, 178, 252);
+  scroll-behavior: smooth;
+}
+.header_menu{
+  font-size: 20px;
+}
+.feature{
+  color:  rgb(8, 8, 1);
+  background: linear-gradient(rgb(228, 178, 252), rgb(181, 24, 253), rgb(109, 5, 158));
+  }
+
+.footer_section{
+  background-color: white;
+  border: 1px solid black;
+ }
+.products{
+  background-color: rgb(255, 255, 255);
+}
+.backtop{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+     background-color: rgba(245, 239, 239, 0.479);
+     color: black;
+}
+.cart{
+  background-color: white;
+}
+.bg_checkout_1{
+  background-color: rgba(175, 35, 240, 0.514);
+}
